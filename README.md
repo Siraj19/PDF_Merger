@@ -6,7 +6,7 @@ If you want to merge pdfs for free, why not to try this one. Doesn't feel good t
 * **Nasty way**
 * Just run python file and select pdf documents you want to merge in order all together.
 * Then choose a file name.pdf and save where you want to save.
-* 
+
 * **Nice way**
 * First time you would need to run py2exe.bat which would generate a single .exe extension file in you dist folder.
 * From now on you only need to run that exe file in order to run PDF merger.
